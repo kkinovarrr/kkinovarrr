@@ -3,7 +3,7 @@
 <h1 align="center"> 🤍𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕙𝕖𝕣𝕖!🤍</h1>
 <br>
 <div align="center">
-   <img src="https://aniyuki.com/wp-content/uploads/2021/05/gif-aniyuki-zero-two-66.gif"  />
+   <img src="https://pa1.aminoapps.com/8302/5c293080c158a1241ce851a523f2833b73fe99fbr1-512-288_hq.gif"  />
   </a>
     <br>
   <p>ℕ𝕖𝕧𝕖𝕣 𝕞𝕒𝕜𝕖 𝕗𝕦𝕟 𝕠𝕗 𝕤𝕠𝕞𝕖𝕠𝕟𝕖 𝕨𝕙𝕠 𝕤𝕡𝕖𝕒𝕜𝕤 𝕓𝕣𝕠𝕜𝕖𝕟 𝔼𝕟𝕘𝕝𝕚𝕤𝕙.</p>
