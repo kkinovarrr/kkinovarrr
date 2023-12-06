@@ -3,7 +3,6 @@
 <h1 align="center"> 🤍𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕙𝕖𝕣𝕖!🤍</h1>
 <br>
 <div align="center">
-<!-- <a href="https://discord.com/users/491281679713959936" > -->
    <img src="https://aniyuki.com/wp-content/uploads/2021/05/gif-aniyuki-zero-two-66.gif"  />
   </a>
     <br>
@@ -50,6 +49,6 @@
 You could write me here 0///0
 </p>
 <p align="center"><a href="https://t.me/kkinovarrr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-<a href="https://discord.com/users/491281679713959936" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<a href="https://discord.com/users/491281679713959936" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 
