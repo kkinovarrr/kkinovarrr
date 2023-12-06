@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/491281679713959936" > -->
-   <img src="https://imgur.com/UIZSwgf"  />
+   <img src="https://aniyuki.com/wp-content/uploads/2021/05/gif-aniyuki-zero-two-66.gif"  />
   </a>
     <br>
   <p>ℕ𝕖𝕧𝕖𝕣 𝕞𝕒𝕜𝕖 𝕗𝕦𝕟 𝕠𝕗 𝕤𝕠𝕞𝕖𝕠𝕟𝕖 𝕨𝕙𝕠 𝕤𝕡𝕖𝕒𝕜𝕤 𝕓𝕣𝕠𝕜𝕖𝕟 𝔼𝕟𝕘𝕝𝕚𝕤𝕙.</p>
