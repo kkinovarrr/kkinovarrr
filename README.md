@@ -29,6 +29,8 @@
 <br><br><br>
 </div>
 <div>
+<div>
+  <br>
 <h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
  <br>
 <p>
@@ -36,7 +38,9 @@
 <img src="https://pa1.narvii.com/6242/b8230f9690928e66efd4579218903b0b42772b1a_hq.gif" align="left">
   </div>
 </div>
+</div>
 <div>
+  <br>
   <br>
 <p align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
   I now English(B2) and Russian(Native), aso learning Korean rn. I am good at writing, learning new and memes, hehe!
