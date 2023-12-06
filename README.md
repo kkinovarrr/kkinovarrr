@@ -16,10 +16,8 @@
   </div>
 <li>
  <b>Name:</b> Antonina</li>
-<b>Gender:</b> she/her
-</li>
-<b>Loves:</b> anime, khh, gooooood food
-</li>
+<li><b>Gender:</b> she/her</li>
+<li><b>Loves:</b> anime, khh, gooooood food</li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Drawing, Game Development
 </li>
@@ -31,12 +29,11 @@
 <br><br><br>
 </div>
 <div>
-<div>
 <h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://pa1.narvii.com/6242/b8230f9690928e66efd4579218903b0b42772b1a_hq.gif" align="right">
+<img src="https://pa1.narvii.com/6242/b8230f9690928e66efd4579218903b0b42772b1a_hq.gif" align="left">
   </div>
 </div>
 <div>
