@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 🫶, Call me Antonina~
+#### 4th year student
+![4th year student](https://celes.club/uploads/posts/2022-06/1655754551_53-celes-club-p-teksturi-v-stile-anime-krasivo-53.jpg)
 
-<!--
-**kkinovarrr/kkinovarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made projects *just for fun*. Here are all the assignments that I did.
 
-Here are some ideas to get you started:
+Skills: PYTHON / C# / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I graduate in 2024
+* Eng (B2) / Rus (Native) / Kor (A2)
+
+ *this page is under construction*
+
