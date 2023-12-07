@@ -22,9 +22,9 @@
 <b>Hobbys:</b> Tech Stuff, Drawing, Game Development
 </li>
 <li>
-<b>Studying rn</b> (I made projects <i>just for fun</i>. Here are all the assignments that I did.)
+<b>Studying rn</b> (I made projects <i>just for fun</i>.)
 </li>
-<li>i graduate in 2024.
+<li>I graduate in 2024, hehehehehe.
 </li>
 <br><br><br>
 </div>
