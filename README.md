@@ -15,14 +15,14 @@
 <img src="https://i.pinimg.com/originals/bc/65/36/bc65363dbea904974b12c123fcff672e.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Antonina</li>
-<li><b>Gender:</b> she/her</li>
-<li><b>Loves:</b> anime, khh, gooooood food</li>
+ <b>Name:</b> Antonina.</span></li>
+<li><b>Gender:</b> she/her.</li>
+<li><b>Loves:</b> anime, khh, asian food.</li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Drawing, Game Development
+<b>Hobbys:</b> Tech Stuff, Drawing, Game Development.
 </li>
 <li>
-<b>Studying rn</b> (I made projects <i>just for fun</i>.)
+<b>Studying rn</b> (I made projects <i>just for fun</i>).
 </li>
 <li>I graduate in 2024, hehehehehe.
 </li>
