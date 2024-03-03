@@ -8,7 +8,6 @@
     <br>
   <p>ℕ𝕖𝕧𝕖𝕣 𝕞𝕒𝕜𝕖 𝕗𝕦𝕟 𝕠𝕗 𝕤𝕠𝕞𝕖𝕠𝕟𝕖 𝕨𝕙𝕠 𝕤𝕡𝕖𝕒𝕜𝕤 𝕓𝕣𝕠𝕜𝕖𝕟 𝔼𝕟𝕘𝕝𝕚𝕤𝕙.</p>
   <p>𝕀𝕥 𝕞𝕖𝕒𝕟𝕤 𝕥𝕙𝕖𝕪 𝕜𝕟𝕠𝕨 𝕒𝕟𝕠𝕥𝕙𝕖𝕣 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖.</p>
-  <br>
 </div>
 <div>
 <h2 align="center">🤍 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖 🤍</h2>
@@ -51,7 +50,7 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <br><br>
+  <br>
   I know English(B2) and Russian(Native). I am good at writing, learning new and memes, hehe!
 </p>
 <br>
