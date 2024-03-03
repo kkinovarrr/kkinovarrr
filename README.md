@@ -26,6 +26,7 @@
 </li>
 <li>I graduate in 2024, hehehehehe.
 </li>
+<li>dont engage with me, im better as a concept.</li>
 <br><br><br>
 </div>
 <div>
