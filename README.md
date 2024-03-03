@@ -50,8 +50,9 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-  I know English(B2) and Russian(Native), also learning Korean rn. I am good at writing, learning new and memes, hehe!
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <br><br>
+  I know English(B2) and Russian(Native). I am good at writing, learning new and memes, hehe!
 </p>
 <br>
 <p align="center">ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖<br>
