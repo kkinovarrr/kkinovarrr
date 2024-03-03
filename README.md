@@ -35,7 +35,7 @@
 <h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
 <p>
   <div align="center">
-<img src="https://pa1.narvii.com/6242/b8230f9690928e66efd4579218903b0b42772b1a_hq.gif" align="left">
+<img src="https://i.pinimg.com/originals/15/34/96/1534966a79a0e28b14732c099d21c2d3.gif" align="left">
   </div>
 </div>
 </div>
