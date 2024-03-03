@@ -34,7 +34,6 @@
   <br>
   <br>
 <h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
- <br>
 <p>
   <div align="center">
 <img src="https://pa1.narvii.com/6242/b8230f9690928e66efd4579218903b0b42772b1a_hq.gif" align="left">
