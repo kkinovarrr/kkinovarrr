@@ -53,10 +53,8 @@
   <br>
   I know English(B2) and Russian(Native). I am good at writing, learning new and memes, hehe!
 </p>
-<br>
-<p align="center">ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖<br>
-You could write me here 0///0
-</p>
+<h3 align="center">𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖 𝕙𝕖𝕣𝕖<br>
+</h3>
 <p align="center"><a href="https://t.me/kkinovarrr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 <a href="https://discord.com/users/491281679713959936" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
