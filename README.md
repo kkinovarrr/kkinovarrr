@@ -31,7 +31,8 @@
 <div>
 <div>
   <br>
-<h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
+  <br>
+<h2>🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
  <br>
 <p>
   <div align="center">
