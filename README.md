@@ -14,6 +14,7 @@
   <div align="center">
 <img src="https://i.pinimg.com/originals/bc/65/36/bc65363dbea904974b12c123fcff672e.gif" align="right">
   </div>
+  <br><br>
 <li>
  <b>Name:</b> Antonina.</span></li>
 <li><b>Gender:</b> she/her.</li>
