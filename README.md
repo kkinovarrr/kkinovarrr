@@ -31,7 +31,7 @@
 </div>
 <div>
 <div>
-  <br>
+  <br><br>
 <h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
 <p>
   <div align="center">
