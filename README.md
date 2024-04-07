@@ -1,7 +1,7 @@
 <body>
   <center>
 <h1 align="center"> 🤍𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕙𝕖𝕣𝕖!🤍</h1>
-<br>
+
 <div align="center">
    <img src="https://pa1.aminoapps.com/8302/5c293080c158a1241ce851a523f2833b73fe99fbr1-512-288_hq.gif"  />
   </a>
@@ -31,16 +31,11 @@
 <br><br><br>
 </div>
 <div>
-<div>
-  <br><br>
-
 <h2 align="center">🤍 𝕤𝕥𝕒𝕥𝕤 🤍</h2>
-
   <img align="left" width="47%" src="https://i.pinimg.com/originals/8f/ef/6c/8fef6c01d2e9037e186838cb280004fe.png" />
-
 <div align="right">
   <br>
-  
+
 <a href="https://github.com/kkinovarrr"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kkinovarrr&theme=dark&title_color=ff3068&bg_color=170F0C&text_color=BB8470"></a>
 <a href="https://github.com/kkinovarrr"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=kkinovarrr&theme=date-night&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
