@@ -30,18 +30,18 @@
 </div>
 <div>
 <h2 align="center">🤍 𝕤𝕥𝕒𝕥𝕤 🤍</h2>
-  <img align="left" width="47%" src="https://i.pinimg.com/originals/8f/ef/6c/8fef6c01d2e9037e186838cb280004fe.png" />
+  <img align="left" width=47% src="https://i.pinimg.com/originals/8f/ef/6c/8fef6c01d2e9037e186838cb280004fe.png" />
 <div align="right">
   <br>
 
-<a href="https://github.com/kkinovarrr"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kkinovarrr&theme=dark&title_color=ff3068&bg_color=170F0C&text_color=BB8470"></a>
-<a href="https://github.com/kkinovarrr"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=kkinovarrr&theme=date-night&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/kkinovarrr"><img width=50% src="https://github-readme-stats.vercel.app/api?username=kkinovarrr&theme=dark&title_color=ff3068&bg_color=170F0C&text_color=BB8470"></a>
+<a href="https://github.com/kkinovarrr"><img width=50% src="http://github-readme-streak-stats.herokuapp.com/?user=kkinovarrr&theme=date-night&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
 <br>
 <h2 align="center">🤍 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 🤍</h2>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/15/34/96/1534966a79a0e28b14732c099d21c2d3.gif" align="left">
+<img src="https://i.pinimg.com/originals/15/34/96/1534966a79a0e28b14732c099d21c2d3.gif" align="left" width=50%>
   </div>
 <div>
   <br>
@@ -58,7 +58,7 @@
   I know English(B2) and Russian(Native). I am good at writing, learning new and memes, hehe!
 </p>
 </div>
-<h3 align="center">🤍𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖🤍<br>
+<h4 align="center">🤍 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖 🤍<br>
 </h3>
 <p align="center"><a href="https://t.me/kkinovarrr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 <a href="https://discord.com/users/491281679713959936" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
