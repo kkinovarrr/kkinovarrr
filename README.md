@@ -14,7 +14,7 @@
   </div>
   <br><br>
 <li>
- <b>Name:</b> Antonina.</span></li>
+ <b>Name:</b> Antonina.</li>
 <li><b>Gender:</b> she/her.</li>
 <li><b>Loves:</b> anime, khh, asian food.</li>
 <li>
