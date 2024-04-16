@@ -26,7 +26,7 @@
 <li>I graduate in 2024, hehehehehe.
 </li>
 
-<br><br><br>
+<br><br><br><br><br>
 </div>
 <div>
 <h2 align="center">🤍 𝕤𝕥𝕒𝕥𝕤 🤍</h2>
