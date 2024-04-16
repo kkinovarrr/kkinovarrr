@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <br>
-  I know English(B2) and Russian(Native). I am good at writing, learning new and memes, hehe!
+  I know English(B2) and Russian(Native). Rn learning JS.
 </p>
 </div>
 <h4 align="center">🤍 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖 🤍<br>
