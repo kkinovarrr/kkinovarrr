@@ -23,7 +23,7 @@
 <li>
 <b>Studying rn</b> (I made projects <i>just for fun</i>).
 </li>
-<li>I graduate in 2024, hehehehehe.
+<li>Graduated in 2024.
 </li>
 
 <br><br><br><br><br>
